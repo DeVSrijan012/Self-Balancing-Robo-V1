@@ -1,0 +1,11 @@
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
